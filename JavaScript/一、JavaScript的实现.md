@@ -18,7 +18,7 @@ DOM 将整个页面映射为一个多层节点结构，示例：
   </html>
   ```
   以上示例代码被分解为：
-  ![DOM节点示意图](./imgs/DOM节点示意图.jpg )
+  ![DOM节点示意图](https://github.com/real-lt/real-lt.github.io/tree/main/JavaScript/imgs/DOM节点示意图.jpg )
   我们可以利用不同的 API，实现对节点的增、删、改操作
   + API：
     + `document.setcookie` 设置 cookie
